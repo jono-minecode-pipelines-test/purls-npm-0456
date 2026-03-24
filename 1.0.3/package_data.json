@@ -1,0 +1,70 @@
+{
+    "name": "002",
+    "version": "1.0.3",
+    "description": "An NPM package which returns a quote by Zero Two from the anime DARLING in the FRANXX in string form.",
+    "main": "./dist/app.js",
+    "types": "./dist/app.d.ts",
+    "scripts": {
+        "test": "node ./test/test.js",
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/8cy/node-002.git"
+    },
+    "keywords": [
+        "meme",
+        "javascript",
+        "js",
+        "uwu",
+        "zerotwo",
+        "zero-two",
+        "zero two",
+        "zerotwo",
+        "DARLING in the FRANXX",
+        "anime",
+        "002"
+    ],
+    "author": {
+        "name": "Sin"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/8cy/node-002/issues"
+    },
+    "homepage": "https://github.com/8cy/node-002#readme",
+    "_id": "002@1.0.3",
+    "_nodeVersion": "12.15.0",
+    "_npmVersion": "6.14.4",
+    "dist": {
+        "integrity": "sha512-NZIAJs2YMVPGka2bcWvrT8OMOgCTCC0OLkMuDrx/Fba8POD0jsXPv6z3WqeE1KTd0sijRMSkmJN+LHGwDDZd6w==",
+        "shasum": "53582a2519013a9f5fd91794dbb74aa96d47ca70",
+        "tarball": "https://registry.npmjs.org/002/-/002-1.0.3.tgz",
+        "fileCount": 5,
+        "unpackedSize": 4475,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJexpKGCRA9TVsSAnZWagAADkgQAKHnNVLkgGta+AeZkMkr\nR72xoIbI+vOO0qrqiF561G3AUhBifjNMAcAlIdPPtURC16YkyI5o8+lm7SEt\nKpk8lo7qsv/iISq7MiOtvxYXKmnA0yh57SRDLaR3iEMy3+eou7d/fBmHvCfY\n66BJP1eUDsQ2zpEp/AN2FUZp481rVa0zck5rsJvzW365jf4UZgd9a2B+EHzq\nE44Cd9+Zbj9EiqAbi2y0A91qtS6nfSjxq9959wYxWp4hypuFiwt0ShWEpKja\n5bnzXjk0s9FeFHPydRURxocyHQQua8LbRZKSXSqjIszZV0I1nyu6gsvW10wB\njqcKiprR4L1+MglFEsn8lz0QVvK8ggHZsII0jSLA7XSnFFXKmyx3wrqKEmh6\n6OuEUkZX0kBoBrlRqcOGKQi8KbIZG7ddK35hrIjqyemLMxkyPF6ecFR0U+mH\nkCgg3JAInKfNRkn6reIcPz22k4guWfUI6qR3ebZdvADzJSJ5OcVLc9oAckL5\ndL8U8s70Ly3KZQLog8ItkCOZxYTrJRxzGfyjukLLHVfCNMXUhc3EOOFzvvGl\nVsi49n2i4gpK9KGsuuA/VmOdgg0Ds3FmAHjYinasZgKenZ8KHzb0j3j36EeK\nzolnvHF5b6FgJ3U3B8LpA5GkZpq/VLCEfbzllH4c+OOt3cLEw9pPnv+6OPod\nXvke\r\n=u/R0\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIG2DrTTFhic9ChUYuRWEy2Kk/x7WkoR2VlL63qu/o/pDAiBhDxVK49TQ1tTXODnpWlifkmkA2Qninj7AL/SdGxSxDA=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "email": "friskaofficial@gmail.com",
+            "name": "sinny"
+        }
+    ],
+    "_npmUser": {
+        "name": "sinny",
+        "email": "friskaofficial@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/002_1.0.3_1590071942284_0.2903410469543486"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,72 @@
+{
+    "name": "002",
+    "version": "1.0.5",
+    "description": "An NPM/ Deno package which returns a quote by Zero Two from the anime DARLING in the FRANXX in string form.",
+    "main": "./dist/app.js",
+    "types": "./dist/app.d.ts",
+    "scripts": {
+        "test": "node ./test/test.js",
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/fuwn/node-002.git"
+    },
+    "keywords": [
+        "meme",
+        "javascript",
+        "js",
+        "uwu",
+        "zerotwo",
+        "zero-two",
+        "zero two",
+        "zerotwo",
+        "DARLING in the FRANXX",
+        "anime",
+        "002",
+        "deno"
+    ],
+    "author": {
+        "name": "Fuwn"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fuwn/node-002/issues"
+    },
+    "homepage": "https://github.com/fuwn/node-002#readme",
+    "gitHead": "e8509d84d6bc2137ba3f644e575770c36c4680c7",
+    "_id": "002@1.0.5",
+    "_nodeVersion": "14.15.1",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-f4nq2SED2Hg/bZmuv5sxiVHO+i5nFqyQqqxXWlW5MkPmuj0Ax+eB/6wyxdo4lL+DsM1HQ8JWBlMRi85MGnoTBg==",
+        "shasum": "3237930d6db608c36e0d88ab920df2a3c1167ecb",
+        "tarball": "https://registry.npmjs.org/002/-/002-1.0.5.tgz",
+        "fileCount": 5,
+        "unpackedSize": 4509,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJf0tkgCRA9TVsSAnZWagAAlS4QAJ7yXs719X/XEbTjHsI3\ny2AwafkbGf79pKw6Qh7JaMxBB4eQN+fS3aV9DVykH3PJVBPdT6bM7efIJ4Ry\nQCyjNh/jEVETfJqB4r11cQ7HOXHQSR2+Bhk16hwiBkLX5UwKVQdqtfybztIY\nHs4+YvYKoEfJFeGuYL1JteHr8KHWBDhF4SmvU1j5egx32KPinBucDgn5swaX\nZv80rQIqHHMli8MENXM2Znfi0NRPVdJo1ZYh9YbU8IZ42+qlKh7i8TIpckIP\nVT2fH9X26JmPf9Yje+7adERRJReMx7StbENXWPJv6IR9UBU8IxPSCJbOWD93\nuJCu4KmBE9F+SQmjwHsPCqTMn55KXeVxhSSvBIe6DBo/15FUsa5DkzQPM8F7\nFbBIi4pmM4+/P7r0UGqrUCWcvciV+pPl6/JdypiD3jd5neqySE8ghpKKLSCB\nmL4t9vnRB8BNrEuzjKp8xo2Sl6awbFRBJ8Dq9cYgN9lxZtYWsXTTxCD6JV7n\nhP3MeT6Z8k1oYPYGFs3Y4kNH0F92Sb48zAzlYhzIZ9SJwPDTeSqiii7rBQcC\nOoxDzltVNAIxSSHT+tsANYo+mZ2UZLdgvZ5L9AXAL2e6X/TopXPAX8gp2NRP\n/3cXx3QhJxX40rxS2PBH6jzJG8e9fNo3kC/kmA5GXrO/c/VgQHqaPw/8epLE\nrwzi\r\n=yLtT\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQC8lVymoV8FLFLjjyS4QApTaN3MFvTYj185NUydNQKB/QIgb2qPmmq4osQKClYoB3oTG24xPCj6sLGUbUvPMkeemlA="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "fun",
+        "email": "fuwnzy@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fun",
+            "email": "fuwnzy@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/002_1.0.5_1607653663918_0.241530768965031"
+    },
+    "_hasShrinkwrap": false
+}

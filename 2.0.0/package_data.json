@@ -1,0 +1,44 @@
+{
+    "name": "-npm_publish2.0",
+    "version": "2.0.0",
+    "description": "it a code to print on console window ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "-npm_publish2.0@2.0.0",
+    "_nodeVersion": "18.10.0",
+    "_npmVersion": "8.19.2",
+    "dist": {
+        "integrity": "sha512-A1Zs0DLkfnjkXQBdblk1RAS9XZo5zU7lZEN/pa1RoaFLWGM69RaQqdfzKiqbAPlV/qshvDv49xPBybvNkGoo/A==",
+        "shasum": "080d5432363150f93fe5a2d935451f3c5e0913d2",
+        "tarball": "https://registry.npmjs.org/-npm_publish2.0/-/-npm_publish2.0-2.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 337,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHip8nNingvYaO2iTUkEQ95mUpjIP1TZK6hxZFgpPISpAiBIqnXYL9NBLUQPAJ9OE3pzWr9bQkftJNqFP8x0P5rW7A=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjSZXZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrA9RAAlrYGZd5HX5iSA5/nMSXg6rVfBuOxHPXcTWXBfEdwhPT2Vzlf\r\nAL9GTFrBiXnpdQgjVgjLcBIAiWsgJYLYm2vIWAWFg8VM6+Y0StCDniioxYHO\r\niF6pt07PUZ7WI8TiJmcfQgQURxhz5srXXGPPjhw8mQYcHj27Y1ma+HspEewx\r\ntGtgHz6tlknQTmR2frk4HJ+gRrRTnYWb9P8ijUSZUqp4Kku2/x5fKOtHp3aX\r\nCgdNyqsDEX2XrpLIzEgaQB7c5CPeg3ZxdY9pTQ4cJ0JyfLLs64nFF6KCaJK+\r\nS4loPrY42cvwma/DZJjK3vnjbypbaHKSryV0znOTxxyBNrCOr8ig6AXyjNbA\r\nY+Vij4OjmX8joBbKfDtURKFWsJoziXyfUt+e8wfl5Sq3U+Hf3KHFYTJrqgEA\r\nwnxkMCsRx9ULlcHHvNdIiiYX1AwJH+fGOhjfDoPoKJ9YCFvemRpKeWyEnQ1F\r\nWX4rvWrgTNgEZtpBOlMMvqncZb0miGz69YydcfqxLBvZwE7kzsieND4GdsGU\r\n6OR+aJ9W6MXhfGD18ZzWH9g9bdWzHkbsxBHAjNuPZHDFymwNwKpd9SFhOTuC\r\nFkgazdQ2AK58wzeFPOHdFWV7apxzDh3bkmSkQT9H2BPt7wEQ5s8D/JGC1YOt\r\nluiyuYdN/m58FpjX9I1byT1AWr668tlJkxs=\r\n=AwGN\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bhanu.agarwal",
+        "email": "Bhanu.Agarwal@creszen.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bhanu.agarwal",
+            "email": "Bhanu.Agarwal@creszen.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-npm_publish2.0_2.0.0_1665766872924_0.3363937648705515"
+    },
+    "_hasShrinkwrap": false
+}
